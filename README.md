@@ -6,13 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;IT+Infrastructure+%26+Systems;Cloud+%26+DevOps;Founder+%40+GMDware" alt="Typing animation"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/AbdallaElnagar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abdalla-3l-nagar/">
+<a href="https://www.linkedin.com/in/abdalla-elnager-bb867022a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/GMDware-111827?style=for-the-badge&logo=github&logoColor=white" alt="GMDware"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AbdallaElnagar&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -185,30 +185,7 @@ I'm the **Founder of GMDware**, a software team focused on building professional
 
 ---
 
-<div align="center">
 
-# 🌐 Networking
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=cisco,linux&perline=8" alt="Networking"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=flat-square" alt="TCP/IP"/>
-<img src="https://img.shields.io/badge/DNS-0F172A?style=flat-square" alt="DNS"/>
-<img src="https://img.shields.io/badge/DHCP-0F172A?style=flat-square" alt="DHCP"/>
-<img src="https://img.shields.io/badge/VLAN-0F172A?style=flat-square" alt="VLAN"/>
-<img src="https://img.shields.io/badge/Routing-0F172A?style=flat-square" alt="Routing"/>
-<img src="https://img.shields.io/badge/Switching-0F172A?style=flat-square" alt="Switching"/>
-<img src="https://img.shields.io/badge/Subnetting-0F172A?style=flat-square" alt="Subnetting"/>
-<img src="https://img.shields.io/badge/NAT-0F172A?style=flat-square" alt="NAT"/>
-<img src="https://img.shields.io/badge/IPv4-0F172A?style=flat-square" alt="IPv4"/>
-<img src="https://img.shields.io/badge/IPv6-0F172A?style=flat-square" alt="IPv6"/>
-
-</div>
-
----
 
 <div align="center">
 
